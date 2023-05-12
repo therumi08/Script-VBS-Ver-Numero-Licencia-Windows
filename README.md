@@ -1,2 +1,2 @@
 # scriptvbsvernumerolicenciawindows
-Este script es para ver el numero de producto de 25 caracteres de windows.
+This script is to see the windows 25 character product number.
